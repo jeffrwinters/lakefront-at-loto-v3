@@ -1,5 +1,4 @@
-City Guide
+Lakefront at LOTO
 ==========
 
-This is a City Guide app created by [Robo Templates](http://robotemplates.com/).
-See documentation in _/doc_ directory for more info.
+This app shows lakefront boating locations around Lake of the Ozarks, Missouri. The app was created by [Jeff Winters](http://jeffrwinters.com/).  Visit lakefrontatloto.com(http://lakefrontatloto.com) to see the app on your desktop or iPhone.
